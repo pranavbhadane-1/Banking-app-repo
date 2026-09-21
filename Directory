@@ -1,0 +1,12 @@
+
+## Project structure
+
+- `src/bank/Account.java`
+- `src/app/Main.java`
+
+## Run the project
+
+```bash
+javac -d out src/bank/Account.java src/app/Main.java
+java -cp out app.Main
+```
